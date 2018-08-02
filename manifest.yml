@@ -4,4 +4,4 @@ applications:
   host:    compose-mongodb-helloworld-nodejs-zhaoyu
   memory:  128M
   services:
-    - Weather-Compose for MongoDB-8e
+    - bmix-dal-yp-1e040541-b156-4791-bca3-499e56e6d57d
