@@ -1,7 +1,7 @@
 ---
 applications:
-- name:    compose-mongodb-helloworld-nodejs
-  host:    compose-mongodb-helloworld-nodejs
+- name:    compose-mongodb-helloworld-nodejs-zhaoyu
+  host:    compose-mongodb-helloworld-nodejs-zhaoyu
   memory:  128M
   services:
-    - my-compose-for-mongodb-service
+    - Weather-Compose for MongoDB-8e
